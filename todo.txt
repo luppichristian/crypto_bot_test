@@ -1,0 +1,39 @@
+
+- HODL waves, age distribution of coins being moved.
+	Metric: Age distribution of coins being moved.
+	Why: Long-term holders selling = change in conviction.
+	Signal: Long-dormant coins moving → bearish shift.
+
+- Derivatives
+	Metric: Perpetual futures funding rate, open interest.
+	Why: Overleveraged markets often precede violent corrections.
+	Signal: Excessive long OI or high positive funding → sell signal.
+
+- Volume Divergence:
+	Metric: Price rising while volume falls.
+	Why: Indicates weakening trend.
+	Signal: Divergence → impending reversal.
+
+- MVRV (Market Value to Realized Value):
+	Why: Gauges if BTC is overvalued relative to holders’ cost basis.
+	Signal: High MVRV (>3) → overheated, low MVRV (<1) → undervalued.
+
+- NVT Ratio (Network Value to Transactions)
+	Why: "PE ratio" of crypto — high value, low usage = overvalued.
+	Signal: Rising NVT with flat usage = bearish.
+
+- Volatility Compression / Expansion (Bollinger Band Squeeze):
+	Why: Periods of low volatility often precede large moves.
+	Signal: BB width very narrow → prepare for breakout (not directionally biased).
+
+- DXY (US Dollar Index):
+	Why: BTC often moves inversely to USD strength.
+	Signal: Rising DXY → bearish for BTC; falling DXY → bullish.
+
+- 10-Year Treasury Yield / Inflation Expectations:
+	Why: Higher yields = tighter liquidity = bearish for risk assets.
+	Signal: Spike in yields → risk-off environment.
+
+- Altcoin/BTC Dominance Shifts:
+	Why: BTC dominance dropping rapidly = altcoin euphoria = risk-on.
+	Signal: Sharp drop in BTC dominance during uptrend → possible top.
